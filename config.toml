@@ -1,4 +1,9 @@
-baseURL = "http://blockchain.acm.illinois.edu/"
+baseURL = "blockchain.acm.illinois.edu"
+
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "ananke"
+
+title = "Hack SIG Blockchain"
+
+theme = "devfest-theme-hugo"
+
+paginate = 20
